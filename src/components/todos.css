@@ -1,0 +1,13 @@
+ul{
+    width: 624px;
+    background-color: #b9bad0;
+    padding: 20px 96px;
+    color: rgb(28, 148, 12);
+}
+
+li{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
